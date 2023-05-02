@@ -42,8 +42,4 @@ Our code is open source and available for anyone to view and contribute to. Whet
 ## Contact Us
 
 If you have any questions or feedback about ENSI-CPC, please don't hesitate to get in touch! You can reach us. We're always happy to hear from our users and are committed to making our platform the best it can be.
-
-## License
-
-ENSI-CPC is licensed under the MIT license. For more information, please see our LICENSE file.
  
